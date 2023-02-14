@@ -1,3 +1,3 @@
-length = float(input('Enter a length: '))
-width = float(input('Enter a width: '))
-print(f'Square: {length * width:.2f}')
+length = float(input('Введите длину: '))
+width = float(input('Введите ширину: '))
+print(f'Площадь комнаты: {length * width:.2f} кв. м.')
